@@ -10,7 +10,7 @@
 
 ![2](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/2.%20Cartoon%20Kitchen%20Design/3.png)
 
-### [3. Work From Home Room]()
+### [3. Work From Home Room](https://github.com/maciekkoks/My-Blender-Projects/tree/main/3.%20Work%20From%20Home%20Room)
 
 ![3](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/3.%20Work%20From%20Home%20Room/6.png)
 

@@ -10,3 +10,10 @@
 
 ![2](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/2.%20Cartoon%20Kitchen%20Design/3.png)
 
+### [3. Work From Home Room]()
+
+![3](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/3.%20Work%20From%20Home%20Room/6.png)
+
+<br/>
+
+![3.night](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/3.%20Work%20From%20Home%20Room/6.night.png)

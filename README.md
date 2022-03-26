@@ -14,6 +14,12 @@
 
 ![3](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/3.%20Work%20From%20Home%20Room/6.png)
 
-<br/>
-
 ![3.night](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/3.%20Work%20From%20Home%20Room/6.night.png)
+
+### [4. 3D Lamp&Clock](https://github.com/maciekkoks/My-Blender-Projects/tree/main/4.%203D%20Lamp%26Clock)
+
+![4](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/4.%203D%20Lamp%26Clock/render.png)
+
+### [5. Abstract Monkey](https://github.com/maciekkoks/My-Blender-Projects/tree/main/5.%20Abstract%20Monkey)
+
+![5](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/5.%20Abstract%20Monkey/untitled.png)

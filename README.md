@@ -23,3 +23,7 @@
 ### [5. Abstract Monkey](https://github.com/maciekkoks/My-Blender-Projects/tree/main/5.%20Abstract%20Monkey)
 
 ![5](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/5.%20Abstract%20Monkey/untitled.png)
+
+### [6. 3D Bathroom](https://github.com/maciekkoks/My-Blender-Projects/tree/main/6.%203D%20Bathroom)
+
+![6](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/6.%203D%20Bathroom/5.png)

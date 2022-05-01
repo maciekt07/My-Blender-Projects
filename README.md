@@ -1,6 +1,6 @@
 # My-Blender-Projects
 
-## Previews 
+## Projects
 
 ### [1. My first room design](https://github.com/maciekkoks/My-Blender-Projects/tree/main/1.%20My%20first%20room%20design)
 
@@ -27,3 +27,8 @@
 ### [6. 3D Bathroom](https://github.com/maciekkoks/My-Blender-Projects/tree/main/6.%203D%20Bathroom)
 
 ![6](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/6.%203D%20Bathroom/5.png)
+
+## Models
+
+### [1. Pen]()
+![1](https://github.com/maciekt07/My-Blender-Projects/blob/main/models/pen/2.png)![1.1](https://github.com/maciekt07/My-Blender-Projects/blob/main/models/pen/1.png)

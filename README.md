@@ -28,6 +28,10 @@
 
 ![6](https://raw.githubusercontent.com/maciekkoks/My-Blender-Projects/main/6.%203D%20Bathroom/5.png)
 
+### [7. Felt-tip pen art](https://github.com/maciekt07/My-Blender-Projects/tree/main/7.%20Felt-tip%20pen%20art)
+
+![7](https://raw.githubusercontent.com/maciekt07/My-Blender-Projects/main/7.%20Felt-tip%20pen%20art/art3.png)
+
 ## Models
 
 ### [1. Pen]()
